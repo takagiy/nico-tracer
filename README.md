@@ -5,7 +5,7 @@ Watching history analysis on nicovideo.jp
 * [ ] Lifetime of the history
   * Watching histories on the official page expire in 90 days.
 * [ ] The histories will be stored after you reach the end of the track.
-  * Officially, the history will be stored when you start the new track.
+  * On the official page, the history will be stored when you start the new track.
 * [ ] Data visualization
   * We (will) analyze and visualize your watching history more luxuriously.
 
