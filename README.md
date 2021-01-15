@@ -1,6 +1,13 @@
 # nico-tracer
 Watching history analysis on nicovideo.jp
 
+## Difference between official watching history page
+* [ ] Lifetime of the history
+  * Watching histories expire in 90 days on the official page.
+* [ ] Data visualization
+  * We (will) analyze and visualize your watching history more luxuriously.
+
+
 ## TODO
 * [ ] Ensure an online storage with Google Firebase.
 * [ ] Make the browser extension to upload the watching information to the storage.
