@@ -1,9 +1,9 @@
 # nico-tracer
 Watching history analysis on nicovideo.jp
 
-## Difference between official watching history page
+## Difference between the official watching history page
 * [ ] Lifetime of the history
-  * Watching histories expire in 90 days on the official page.
+  * Watching histories on the official page expire in 90 days.
 * [ ] Data visualization
   * We (will) analyze and visualize your watching history more luxuriously.
 
